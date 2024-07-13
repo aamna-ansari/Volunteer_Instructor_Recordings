@@ -1,2 +1,2 @@
 # Volunteer_Instructor_Recordings
-This repository dedicated to storing and sharing links to all my volunteer workshop and webinar recordings.
+As a volunteer instructor at [iCodeGuru](https://icode.guru/), I regularly teach **Python and Data Structures & Algorithms (DSA)** sessions, along with conducting workshops. This repository serves as a collection of links to all my teaching sessions. It includes recordings and resources from these sessions, organized for easy access. These materials are invaluable for reviewing past lessons and preparing for future sessions, helping me track and manage my teaching progress effectively.
