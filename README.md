@@ -92,6 +92,16 @@ As a volunteer instructor at [iCodeGuru](https://icode.guru/), I regularly teach
     <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1484589192419255">Tuples</td>
       <td align="center"><a href="https://www.linkedin.com/posts/aamnansari_%3F%3F%3F-%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F-%3F%3F-activity-7217552942512390146-OZAb">AaMna AnSari</td>
       </tr>
+           <tr>
+    <td align="center"><b>9 PM PKT</td>
+    <td align="center"><a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=816439003923146">Sets</td>
+      <td align="center"><a href="https://www.linkedin.com/posts/aamnansari_%3F%3F%3F-%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F-%3F%3F-activity-7217552942512390146-OZAb">AaMna AnSari</td>
+      </tr>
+          <tr>
+    <td align="center"><b>9 PM PKT</td>
+     <td align="center"><a href="https://web.facebook.com/watch/live/?ref=watch_permalink&v=1495253251379730">Sets</td>
+      <td align="center"><a href="https://www.linkedin.com/posts/aamnansari_%3F%3F%3F-%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F-%3F%3F-activity-7217552942512390146-OZAb">AaMna AnSari</td>
+      </tr>
       </table>
       <tbody>
 
