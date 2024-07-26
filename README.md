@@ -22,7 +22,7 @@ As a volunteer instructor at [iCodeGuru](https://icode.guru/), I regularly teach
   </tr>
         <tr>
     <td align="center"><b>DSA  11 PM PKT </td>
-    <td align="center"><a href="">LeetCode Questions</br></td>
+    <td align="center"><a href="https://web.facebook.com/watch/live/?ref=watch_permalink&v=1017785949899584">LeetCode Questions</br></td>
         <td align="center"><a href="https://leetcode.com/problems/special-array-i/">3151.Special Array I</br><a href="https://leetcode.com/problems/find-lucky-integer-in-an-array/">1394. Find Lucky Integer in an Array
 </td>
       <td align="center"><a href="">AaMna AnSari</td>
