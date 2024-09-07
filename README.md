@@ -109,6 +109,11 @@ As a volunteer instructor at [iCodeGuru](https://icode.guru/), I regularly teach
      <td align="center"><a href="https://web.facebook.com/watch/live/?ref=watch_permalink&v=1495253251379730">Sets</td>
       <td align="center"><a href="https://www.linkedin.com/posts/aamnansari_%3F%3F%3F-%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F-%3F%3F-activity-7217552942512390146-OZAb">AaMna AnSari</td>
       </tr>
+          <tr>
+    <td align="center"><b>11 PM PKT</td>
+     <td align="center"><a href="https://web.facebook.com/watch/live/?ref=watch_permalink&v=1114544893430928">Operators</td>
+      <td align="center"><a href="https://www.linkedin.com/posts/aamnansari_%3F%3F%3F-%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F-%3F%3F-activity-7217552942512390146-OZAb">AaMna AnSari</td>
+      </tr>
       </table>
       <tbody>
 
