@@ -112,12 +112,11 @@ As a volunteer instructor at [iCodeGuru](https://icode.guru/), I regularly teach
           <tr>
     <td align="center"><b>11 PM PKT</td>
      <td align="center"><a href="https://web.facebook.com/watch/live/?ref=watch_permalink&v=1114544893430928">Operators</td>
-      <td align="center"><a href="https://www.linkedin.com/posts/aamnansari_%3F%3F%3F-%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F-%3F%3F-activity-7217552942512390146-OZAb">AaMna AnSari</td>
+      <td align="center"><a href="https://www.linkedin.com/posts/aamnansari_%F0%9D%97%A1%F0%9D%97%B2%F0%9D%98%84-%F0%9D%97%A3%F0%9D%98%86%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%BC%F0%9D%97%BB-%F0%9D%97%96%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BF%F0%9D%98%80%F0%9D%97%B2-%F0%9D%97%9F%F0%9D%97%AE%F0%9D%98%82%F0%9D%97%BB-activity-7236013531723120640-SMA5">AaMna AnSari</td>
       </tr>
       </table>
       <tbody>
-
-
+      
       
 # Webinar 
 
