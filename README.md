@@ -138,4 +138,4 @@ random()
 
 
 ## 2. Webinar on Meta Hacker Cup.
-- **Webinar:**  [Recording Video](https://drive.google.com/drive/u/0/folders/1qS6yiN8sTq_Nl1khZfQzcACgFzEh5Cx0?q=sharedwith:public%20parent:1qS6yiN8sTq_Nl1khZfQzcACgFzEh5Cx0)
+- **Webinar:**  [Recording Video](https://drive.google.com/drive/u/0/folders/1qS6yiN8sTq_Nl1khZfQzcACgFzEh5Cx0)
