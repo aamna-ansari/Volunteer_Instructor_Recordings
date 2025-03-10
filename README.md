@@ -134,13 +134,16 @@ random()
 # Webinar 
 ## 1. Webinar on Meta Hacker Cup.
 - **Webinar:**  [Recording Video](https://drive.google.com/drive/u/0/folders/1qS6yiN8sTq_Nl1khZfQzcACgFzEh5Cx0)
+- **Venue:** [Saylani Mass IT Training (SMIT)](https://saylaniwelfare.com/services/education/technical-education/saylani-mass-it-training)
 
 
 # Workshop
 
 ## 1. Boast your productivity with Git and GitHub.
 - **Workshop:** [Recording_Video](https://web.facebook.com/iCodeguru/videos/1052692669896582)
+- **Venue:** [iCodeGuru](https://icode.guru/join/)
   
 ## 2. CS50x Puzzle Day 2025
 - **Workshop:**  [Recording Video]()
+- **Venue:** [iCodeGuru](https://icode.guru/join/)
 
