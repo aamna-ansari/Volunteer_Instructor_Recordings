@@ -147,6 +147,6 @@ random()
 - **Venue:** [iCodeGuru](https://icode.guru/join/)
   
 ## 2. CS50x Puzzle Day 2025
-- **Workshop:**  [Recording Video](https://web.facebook.com/iCodeguru/videos/1054146913139838)
+- **Workshop:**  [Recording Video]()
 - **Venue:** [iCodeGuru](https://icode.guru/join/)
 
