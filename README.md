@@ -139,7 +139,9 @@ random()
 ## 2. Harvard CS50x Puzzle Day 2025
 - **Webinar:**  [Recording Video](https://drive.google.com/file/d/19RPoCRGPVXWUM1_DQVC2OuOmLtPgxvbn/view?usp=drivesdk)
 - **Venue:** [ACM SSUET student society](https://www.ssuet.edu.pk/)
-
+## 3. UC Berkely CALCIO Sping 2025
+- **Webinar:**  [Recording Video](https://drive.google.com/file/d/1OSfS7BbcbkZQbNpRQ3wNTrkTIBHBFZs-/view?usp=sharing)
+- **Venue:** [ACM SSUET student society](https://www.ssuet.edu.pk/)
 # Workshop 
 
 ## 1. Boast your productivity with Git and GitHub
