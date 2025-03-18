@@ -137,10 +137,10 @@ random()
 - **Venue:** [Saylani Mass IT Training (SMIT)](https://saylaniwelfare.com/services/education/technical-education/saylani-mass-it-training)
 
 ## 2. Harvard CS50x Puzzle Day 2025
-- **Webinar:**  [Recording Video]()
-- **Venue:** []()
+- **Webinar:**  [Recording Video](https://drive.google.com/file/d/19RPoCRGPVXWUM1_DQVC2OuOmLtPgxvbn/view?usp=drivesdk)
+- **Venue:** [ACM SSUET student society](https://www.ssuet.edu.pk/)
 
-# Workshop
+# Workshop 
 
 ## 1. Boast your productivity with Git and GitHub
 - **Workshop:** [Recording_Video](https://web.facebook.com/iCodeguru/videos/1052692669896582)
