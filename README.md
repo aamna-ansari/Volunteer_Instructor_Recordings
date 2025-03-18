@@ -3,6 +3,28 @@ As a volunteer instructor at [iCodeGuru](https://icode.guru/), I regularly teach
 
 --- 
 
+# Webinar 
+## 1. Webinar on Meta Hacker Cup
+- **Webinar:**  [Recording Video](https://drive.google.com/drive/u/0/folders/1qS6yiN8sTq_Nl1khZfQzcACgFzEh5Cx0)
+- **Venue:** [Saylani Mass IT Training (SMIT)](https://saylaniwelfare.com/services/education/technical-education/saylani-mass-it-training)
+
+## 2. Harvard CS50x Puzzle Day 2025
+- **Webinar:**  [Recording Video](https://drive.google.com/file/d/19RPoCRGPVXWUM1_DQVC2OuOmLtPgxvbn/view?usp=drivesdk)
+- **Venue:** [ACM SSUET student society](https://www.ssuet.edu.pk/)
+## 3. UC Berkely CALCIO Spring 2025
+- **Webinar:**  [Recording Video](https://drive.google.com/file/d/1OSfS7BbcbkZQbNpRQ3wNTrkTIBHBFZs-/view?usp=sharing)
+- **Venue:** [ACM SSUET student society](https://www.ssuet.edu.pk/)
+# Workshop 
+
+## 1. Boast your productivity with Git and GitHub
+- **Workshop:** [Recording_Video](https://web.facebook.com/iCodeguru/videos/1052692669896582)
+- **Venue:** [iCodeGuru](https://icode.guru/join/)
+  
+## 2. CS50x Puzzle Day 2025
+- **Workshop:**  [Recording Video](https://web.facebook.com/iCodeguru/videos/1054146913139838)
+- **Venue:** [iCodeGuru](https://icode.guru/join/)
+
+
 # Data Structure & Algorithm with LeetCode
 
 <table>
@@ -130,25 +152,3 @@ random()
       </table>
       <tbody>
       
-      
-# Webinar 
-## 1. Webinar on Meta Hacker Cup
-- **Webinar:**  [Recording Video](https://drive.google.com/drive/u/0/folders/1qS6yiN8sTq_Nl1khZfQzcACgFzEh5Cx0)
-- **Venue:** [Saylani Mass IT Training (SMIT)](https://saylaniwelfare.com/services/education/technical-education/saylani-mass-it-training)
-
-## 2. Harvard CS50x Puzzle Day 2025
-- **Webinar:**  [Recording Video](https://drive.google.com/file/d/19RPoCRGPVXWUM1_DQVC2OuOmLtPgxvbn/view?usp=drivesdk)
-- **Venue:** [ACM SSUET student society](https://www.ssuet.edu.pk/)
-## 3. UC Berkely CALCIO Sping 2025
-- **Webinar:**  [Recording Video](https://drive.google.com/file/d/1OSfS7BbcbkZQbNpRQ3wNTrkTIBHBFZs-/view?usp=sharing)
-- **Venue:** [ACM SSUET student society](https://www.ssuet.edu.pk/)
-# Workshop 
-
-## 1. Boast your productivity with Git and GitHub
-- **Workshop:** [Recording_Video](https://web.facebook.com/iCodeguru/videos/1052692669896582)
-- **Venue:** [iCodeGuru](https://icode.guru/join/)
-  
-## 2. CS50x Puzzle Day 2025
-- **Workshop:**  [Recording Video](https://web.facebook.com/iCodeguru/videos/1054146913139838)
-- **Venue:** [iCodeGuru](https://icode.guru/join/)
-
