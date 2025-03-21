@@ -4,7 +4,10 @@ As a volunteer instructor at [iCodeGuru](https://icode.guru/), I regularly teach
 --- 
 
 # Webinar 
-## 1. Webinar on Meta Hacker Cup
+## 1. Webinar on Meta Hacker Cup | <a href="https://www.linkedin.com/posts/aamnansari_%F0%9D%97%AA%F0%9D%97%98%F0%9D%97%95%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%A5-%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%A7-hey-everyone-activity-7230607539028058113-2O8l?utm_source=share&" target="_blank">🔗
+ </a>
+
+
 - **Webinar:**  [Recording Video](https://drive.google.com/drive/u/0/folders/1qS6yiN8sTq_Nl1khZfQzcACgFzEh5Cx0)
 - **Venue:** [Saylani Mass IT Training (SMIT)](https://saylaniwelfare.com/services/education/technical-education/saylani-mass-it-training)
 
