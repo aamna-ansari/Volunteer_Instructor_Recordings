@@ -20,6 +20,11 @@ As a volunteer instructor at [iCodeGuru](https://icode.guru/), I regularly teach
 ## 3. UC Berkely CALCIO Spring 2025
 - **Webinar:**  [Recording Video](https://drive.google.com/file/d/1OSfS7BbcbkZQbNpRQ3wNTrkTIBHBFZs-/view?usp=sharing)
 - **Venue:** [ACM SSUET student society](https://www.ssuet.edu.pk/)
+
+## 4. Stanford Code in Place 
+- **Webinar:**  [Recording Video]()
+- **Venue:** [ETL]()
+
 # Workshop 
 
 ## 1. Boast your productivity with Git and GitHub
