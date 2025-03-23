@@ -23,7 +23,7 @@ As a volunteer instructor at [iCodeGuru](https://icode.guru/), I regularly teach
 
 ## 4. Stanford Code in Place 
 - **Webinar:**  [Recording Video]()
-- **Venue:** [ETL]()
+- **Venue:** [ETL](https://community.etlonline.org/)
 
 # Workshop 
 
