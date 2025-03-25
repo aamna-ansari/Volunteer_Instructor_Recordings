@@ -16,7 +16,7 @@ As a volunteer instructor at [iCodeGuru](https://icode.guru/), I regularly teach
 - **Venue:** [ACM SSUET student society](https://www.ssuet.edu.pk/) and [iCodeGuru](https://icode.guru/join/)
 
   
-## 3. UC Berkely CALCIO Spring 2025
+## 3. UC Berkely CALCIO Spring 2025 | <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307361256435257344/" target="_blank">🔗 </a>
 - **Webinar:**  [Recording Video](https://drive.google.com/file/d/1OSfS7BbcbkZQbNpRQ3wNTrkTIBHBFZs-/view?usp=sharing)
 - **Venue:** [ACM SSUET student society](https://www.ssuet.edu.pk/)
 
