@@ -7,11 +7,10 @@ As a volunteer instructor at [iCodeGuru](https://icode.guru/), I regularly teach
 ## 1. Webinar on Meta Hacker Cup | <a href="https://www.linkedin.com/posts/aamnansari_%F0%9D%97%AA%F0%9D%97%98%F0%9D%97%95%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%A5-%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%A7-hey-everyone-activity-7230607539028058113-2O8l?utm_source=share&" target="_blank">🔗
  </a>
 
-
 - **Webinar:**  [Recording Video](https://drive.google.com/drive/u/0/folders/1qS6yiN8sTq_Nl1khZfQzcACgFzEh5Cx0)
 - **Venue:** [Saylani Mass IT Training (SMIT)](https://saylaniwelfare.com/services/education/technical-education/saylani-mass-it-training)
 
-## 2. Harvard CS50x Puzzle Day 2025  | <a href="https://www.linkedin.com/posts/aamnansari_%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B8-%F0%9D%97%A2%F0%9D%98%82%F0%9D%98%81%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%B1%F0%9D%97%B2-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%95%F0%9D%97%BC%F0%9D%98%85-activity-7305960650067832832-c7jm?utm_source=share&" target="_blank">🔗 </a>
+## 2. Harvard CS50x Puzzle Day 2025  | <a href="https://www.linkedin.com/feed/update/urn:li:activity:7305960650067832832/" target="_blank">🔗 </a>
  
 - **Webinar:**  [Recording Video](https://drive.google.com/file/d/19RPoCRGPVXWUM1_DQVC2OuOmLtPgxvbn/view?usp=drivesdk)
 - **Venue:** [ACM SSUET student society](https://www.ssuet.edu.pk/) and [iCodeGuru](https://icode.guru/join/)
