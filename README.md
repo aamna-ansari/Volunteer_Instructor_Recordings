@@ -20,7 +20,7 @@ As a volunteer instructor at [iCodeGuru](https://icode.guru/), I regularly teach
 - **Webinar:**  [Recording Video](https://drive.google.com/file/d/1OSfS7BbcbkZQbNpRQ3wNTrkTIBHBFZs-/view?usp=sharing)
 - **Venue:** [ACM SSUET student society](https://www.ssuet.edu.pk/)
 
-## 4. Stanford Code in Place 
+## 4. Stanford Code in Place | <a href="https://www.linkedin.com/feed/update/urn:li:activity:7308839005045886978/" target="_blank">🔗 </a>
 - **Webinar:**  [Recording Video]()
 - **Venue:** [ETL](https://community.etlonline.org/)
 
