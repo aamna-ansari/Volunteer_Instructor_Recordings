@@ -26,7 +26,7 @@ As a volunteer instructor at [iCodeGuru](https://icode.guru/), I regularly teach
 
 # Workshop 
 
-## 1. Boast your productivity with Git and GitHub
+## 1. Boast your productivity with Git and GitHub | <a href="" target="_blank">🔗 </a>
 - **Workshop:** [Recording_Video](https://web.facebook.com/iCodeguru/videos/1052692669896582)
 - **Venue:** [iCodeGuru](https://icode.guru/join/)
   
