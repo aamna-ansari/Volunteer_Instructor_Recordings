@@ -24,7 +24,7 @@ As a volunteer instructor at [iCodeGuru](https://icode.guru/), I regularly teach
 - **Webinar:**  [Recording Video]()
 - **Venue:** [ETL](https://community.etlonline.org/)
 
-## 5. Harvard CS50x Puzzle Day 2025  | <a href="" target="_blank">🔗 </a>
+## 5. Harvard CS50x Puzzle Day 2025  | <a href="https://www.linkedin.com/feed/update/urn:li:activity:7311430101399732225/" target="_blank">🔗 </a>
  
 - **Webinar:**  [Recording Video]()
 - **Venue:** [SZABIST Karachi](https://admissions.szabist.edu.pk/) and [iCodeGuru](https://icode.guru/join/)
